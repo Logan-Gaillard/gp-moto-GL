@@ -22,11 +22,7 @@ header{
 }
 
 #logo{
-    min-height: 5%;
-    min-width: 5%;
-    max-width: 10%;
-    max-height: 100%;
-    object-fit: contain;
+    max-height: 3vh;
 }
 
 .navbar{
