@@ -1,0 +1,37 @@
+footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+header{
+    background-color: #1f1f1f;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    height: 10%;
+    width: 100%;
+    overflow: hidden;
+}
+
+#logo{
+    min-height: 5%;
+    min-width: 5%;
+    max-width: 10%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.navbar{
+    height: 100%;
+    padding: 1%;
+    display: grid;
+    align-items: center;
+}
