@@ -18,3 +18,5 @@
     <div data-depth="0.2" class="fullscreen background">
         <div class="fullscreen blurify"></div>
     </div>
+
+    <div class="container">
