@@ -24,6 +24,10 @@ switch($page){
         include("vue/circuits.php");
         break;
 
+    case 'admin':
+        include("vue/admin.php");
+        break;
+
     default:
         include("vue/accueil.php");
         break;
