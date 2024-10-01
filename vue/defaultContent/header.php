@@ -19,4 +19,11 @@
         <div class="fullscreen blurify"></div>
     </div>
 
+    <script>
+        var scene = document.getElementById('scene');
+        var parallaxInstance = new Parallax(scene, {
+        relativeInput: true
+        });
+    </script>
+
     <div class="container">
