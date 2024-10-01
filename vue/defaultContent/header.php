@@ -13,17 +13,15 @@
     <header>
         <div class="navbar">
             <img id="logo" src="../img/moto-gp-logo.webp">
+            <nav>
+                <a href="?page=accueil">Accueil</a>
+                <a href="?page=pilotes">Pilotes</a>
+                <a href="?page=courses">Courses</a>
+                <a href="?page=equipes">Equipes</a>
+                <a href="?page=circuits">Circuits</a>
+            </nav>
         </div>
     </header>
     <div data-depth="0.2" class="fullscreen background">
         <div class="fullscreen blurify"></div>
     </div>
-
-    <script>
-        var scene = document.getElementById('scene');
-        var parallaxInstance = new Parallax(scene, {
-        relativeInput: true
-        });
-    </script>
-
-    <div class="container">
