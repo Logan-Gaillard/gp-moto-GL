@@ -1,3 +1,4 @@
 <div class="">
-    Accueil
+    Accueil <br>
+    <a href="?page=admin">Admin</a>
 </div>
